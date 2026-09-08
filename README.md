@@ -3,7 +3,7 @@
 Aplicació WebGIS desenvolupada per a la visualització,
 consulta i gestió d'informació geogràfica.
 
-![Vista general](images/imagen1.jpg)
+![Vista general](imagen1.jpg)
 
 ## Objectiu
 
