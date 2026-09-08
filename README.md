@@ -5,8 +5,6 @@
 Aplicació WebGIS desenvolupada per a la visualització,
 consulta i gestió d'informació geogràfica.
 
-![Vista general](images/01_webgis_overview.png)
-
 ## Objectiu
 
 El projecte té com a objectiu desenvolupar una aplicació
