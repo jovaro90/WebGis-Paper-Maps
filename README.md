@@ -1,4 +1,7 @@
 # Paper Maps — WebGIS
+
+![Vista general](images/01_webgis_overview.png)
+
 Aplicació WebGIS desenvolupada per a la visualització,
 consulta i gestió d'informació geogràfica.
 
