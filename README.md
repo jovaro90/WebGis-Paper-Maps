@@ -1,4 +1,11 @@
 # Paper Maps — WebGIS
+Aplicació WebGIS desenvolupada per a la visualització,
+consulta i gestió d'informació geogràfica.
+
+<p align="center">
+  <img src="images/01_webgis_overview.png" width="90%">
+</p>
+
 <p align="center"> <img src="images/01_webgis_overview.png" width="90%"> </p>
 
 <p align="center"> <strong>Interactive WebGIS application for the visualization, query and management of geospatial information.</strong> </p>
