@@ -34,32 +34,32 @@ filtrar i gestionar informació geolocalitzada.
 
 ### Vista general
 
-![Vista general](images/imagen2.jpg)
+![Vista general](Imagen1.jpg)
 
 ### Filtrat temàtic
 
 L'aplicació permet seleccionar diferents categories
 temàtiques per filtrar la informació visualitzada.
 
-![Filtrat temàtic](images/02_thematic_filter.png)
+![Filtrat temàtic](Imagen2.jpg)
 
 ### Cerca i resultats
 
 La informació es pot consultar mitjançant diferents
 criteris de cerca, mostrant els resultats sobre el mapa.
 
-![Resultats](images/03_search_results.png)
+![Resultats](Imagen3.jpg)
 
 ### Visualització de dades geogràfiques
 
 L'aplicació permet representar diferents tipus
 d'informació espacial sobre el mapa.
 
-![Visualització](images/04_network_visualization.png)
+![Visualització](Imagen4.jpg)
 
 ### Incorporació de dades
 
 El sistema permet incorporar nous registres associats
 a una ubicació geogràfica.
 
-![Afegir dades](images/05_add_data_form.png)
+![Afegir dades](Imagen6.jpg)
