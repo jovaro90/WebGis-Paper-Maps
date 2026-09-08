@@ -34,32 +34,32 @@ filtrar i gestionar informació geolocalitzada.
 
 ### Vista general
 
-![Vista general](Imagen1.jpg)
+![Vista general](01_webgis_overview.png)
 
 ### Filtrat temàtic
 
 L'aplicació permet seleccionar diferents categories
 temàtiques per filtrar la informació visualitzada.
 
-![Filtrat temàtic](Imagen2.jpg)
+![Filtrat temàtic](02_thematic_filter.png)
 
 ### Cerca i resultats
 
 La informació es pot consultar mitjançant diferents
 criteris de cerca, mostrant els resultats sobre el mapa.
 
-![Resultats](Imagen3.jpg)
+![Resultats](03_search_results.png)
 
 ### Visualització de dades geogràfiques
 
 L'aplicació permet representar diferents tipus
 d'informació espacial sobre el mapa.
 
-![Visualització](Imagen4.jpg)
+![Visualització](04_network_visualization.png)
 
 ### Incorporació de dades
 
 El sistema permet incorporar nous registres associats
 a una ubicació geogràfica.
 
-![Afegir dades](Imagen6.jpg)
+![Afegir dades](05_add_data_form.png)
